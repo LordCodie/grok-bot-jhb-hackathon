@@ -1,0 +1,8 @@
+item_ref,opened,description,counterparty,amount_zar,status
+OI-01,2026-11-10,Refund request R-208 cooking oil x10 (above R500),Mr Dlamini (customer),599.90,Open
+OI-02,2026-11-11,25% discount request for cashier's cousin - no reply from owner,Thandi (cashier),,Open
+OI-03,2026-11-09,Cooking oil system 50 vs counted 38,internal,719.88,Open
+OI-04,2026-11-09,Cash-up not matching bank deposits,internal,1472.60,Open
+OI-05,2026-11-08,Invoice GWT-20931 unpaid (rice/sugar/oil),Gauteng Wholesale Traders,7707.30,Unverified
+OI-06,2026-11-09,Bank payment "SUPPLIES??" to unknown payee,J Mokoena,2500.00,Open
+OI-07,2026-11-10,After-hours cash sale 24 water + 6 oil,Thandi (cashier),719.70,Open
