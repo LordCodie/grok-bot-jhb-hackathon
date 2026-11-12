@@ -1,0 +1,38 @@
+txn_id,date,time,cashier,item,qty,unit_price,disc,payment,total
+T1001,2026-11-07,07:42,Thandi,White Bread (700g),2,18.99,,Cash,37.98
+T1002,07/11/2026,07:44,Thandi,Full Cream Milk 2L,1,32.99,,Card,32.99
+T1003,2026-11-07,07:51,Sipho,Coke 2L,2,29.99,,Cash,59.98
+T1004,2026-11-07,08:03,Sipho,Eggs 18pk,1,64.99,,Card,64.99
+T1005,7 Nov 2026,08:15,Thandi,brown bread,1,19.99,,Cash,19.99
+T1006,2026-11-07,09:30,Sipho,Eggs (18 Pack),1,46.99,,Cash,46.99
+T1007,2026-11-07,10:12,Thandi,Instant Coffee (200g),3,89.99,15%,Cash,229.47
+T1008,2026-11-07,11:05,Sipho,Rice 2kg,2,44.99,,EFT,89.98
+T1009,2026-11-07,11:05,Sipho,Rice 2kg,2,44.99,,EFT,89.98
+T1010,2026-11-07,12:40,Thandi,Coca-Cola (2L),6,24.99,,Cash,149.94
+T1011,2026-11-07,13:20,,Cooking Oil 2L,1,59.99,,Cash,59.99
+T1012,2026-11-07,14:02,Sipho,Bottled Water 1.5L,4,14.99,,Card,59.96
+T1013,2026-11-07,15:45,Thandi,Toilet Paper (9 Pack),2,54.99,,Cash,109.98
+T1014,2026-11-07,17:10,Thandi,VOID - Washing Powder (2kg),1,74.99,,Cash,-74.99
+T1015,2026-11-07,17:12,Thandi,VOID - Washing Powder (2kg),1,74.99,,Cash,-74.99
+,,,,,,,,,
+T1016,2026-11-08,07:58,Sipho,White Bread,3,18.99,,Cash,56.97
+T1017,2026-11-08,09:10,Sipho,Full Cream Milk (2L),2,32.99,,Card,65.98
+T1018,2026-11-08,11:30,Sipho,Chocolate Bar,5,14.99,,Cash,74.95
+T1019,2026-11-08,13:45,Sipho,Potato Chips 125g,2,17.99,,Cash,35.98
+T1020,2026-11-08,15:12,Sipho,Instant Coffee 200g,2,89.99,,Cash,179.98
+T1021,2026-11-08,15:14,Sipho,Instant Coffee 200g,2,89.99,,Cash,179.98
+T1022,2026-11-09,06:12,Thandi,Cooking Oil (2L),1,59.99,,Cash,59.99
+T1023,2026-11-09,07:20,Thandi,Brown Bread (700g),2,19.99,,Card,39.98
+T1024,2026-11-09,08:45,Lerato,Sugar 2kg,1,39.99,,Cash,39.99
+T1025,2026-11-09,09:00,Lerato,Washing Powder (2kg),2,74.99,10%,Cash,134.98
+T1026,2026-11-09,12:15,Lerato,Dishwashing Liquid 750ml,1,29.99,,Card,29.99
+T1027,2026-11-09,16:30,Lerato,Coke 2L,3,29.99,,Cash,89.97
+T1028,2026-11-09,18:05,Thandi,Eggs (18 Pack),2,64.99,,Cash,129.98
+T1029,2026-11-10,07:35,Thandi,White Bread (700g),4,18.99,,Cash,75.96
+T1030,2026-11-10,10:00,Lerato,Rice (2kg),1,44.99,,Card,44.99
+T1031,2026-11-10,13:25,Thandi,Instant Coffee (200g),1,0.00,100%,Cash,0.00
+T1032,2026-11-10,19:40,Thandi,Chocolate Bar,2,14.99,,Cash,29.98
+T1033,2026-11-10,21:47,Thandi,Bottled Water (1.5L),24,14.99,,Cash,359.76
+T1034,2026-11-10,21:49,Thandi,Cooking Oil (2L),6,59.99,,Cash,359.94
+T1035,2026-11-10,,Lerato,Full Cream Milk 2L,1,32.99,,Card,32.99
+T1036,2026-11-10,15:20,Lerato,Eggs (18 Pack),1,R64.99,,Cash,R64.99

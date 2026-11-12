@@ -1,0 +1,10 @@
+refund_id,date,time,cashier,original_txn,item,refund_amount,reason,approved_by
+R-201,2026-11-03,16:10,Thandi,T0877,Washing Powder 2kg,74.99,customer changed mind,
+R-202,2026-11-05,11:32,Thandi,T0902,Instant Coffee 200g x2,179.98,damaged??,Thandi
+R-203,2026-11-06,09:15,Sipho,T0931,Chocolate Bar,14.99,wrong item,Sipho
+R-204,2026-11-07,17:10,Thandi,none,Washing Powder 2kg (VOID),74.99,till error,
+R-205,2026-11-07,17:12,Thandi,none,Washing Powder 2kg (VOID),74.99,till error again,
+R-206,2026-11-09,13:40,Lerato,T1026,Dishwashing Liquid,29.99,leaking bottle - receipt shown,Owner (WhatsApp)
+R-207,2026-11-09,15:05,Thandi,no receipt,Rice 2kg x3,134.97,customer says bought yesterday,Thandi
+R-208,2026-11-10,11:20,Thandi,T0914 (not in log),Cooking Oil 2L x10,599.90,event cancelled - 3 opened,Thandi (verbal OK from boss)
+R-209,2026-11-10,16:45,Thandi,none,Instant Coffee 200g,89.99,customer unhappy,
